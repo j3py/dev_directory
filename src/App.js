@@ -115,7 +115,7 @@ class App extends Component {
             Want to add or change something?  Make a pull request:
           </h2>
           <div>
-            <a href="#"><img alt="GitHub Mark" src={githubImg}/></a>
+            <a href="https://github.com/j3py/dev_directory"><img alt="GitHub Mark" src={githubImg}/></a>
           </div>
         </div>
       </div>

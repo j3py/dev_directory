@@ -24,9 +24,9 @@ class Item extends Component {
     let btnText = e.target.textContent;
 
     if (btnText === 'Show more') {
-      btnText = 'Show less';
+      e.target.textContent = 'Show less';
     } else {
-      btnText = 'Show more';
+      e.target.textContent = 'Show more';
     }
 
     mobileTags.forEach((node) => {
