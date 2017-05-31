@@ -1,0 +1,122 @@
+[
+  {
+    "name": "VueJS",
+    "prog_lang": "JavaScript",
+    "url": "https://vuejs.org/v2/api/",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "VueJS",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "Mozilla Developer Network",
+    "prog_lang": "Unknown",
+    "url": "https://developer.mozilla.org/en-US/",
+    "topic": "Web",
+    "subtopic": "Browsers",
+    "tech": "Web API",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "ReactJS",
+    "prog_lang": "JavaScript",
+    "url": "https://facebook.github.io/react/docs/hello-world.html",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "ReactJS",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "React Native",
+    "prog_lang": "JavaScript",
+    "url": "https://facebook.github.io/react-native/docs/getting-started.html",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "React Native",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "NodeJS",
+    "prog_lang": "JavaScript",
+    "url": "https://nodejs.org/en/docs/",
+    "topic": "Web",
+    "subtopic": "Servers",
+    "tech": "NodeJS",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "NGINX",
+    "prog_lang": "Unknown",
+    "url": "https://nginx.org/en/docs/",
+    "topic": "Web",
+    "subtopic": "Servers",
+    "tech": "NGINX",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "AngularJS",
+    "prog_lang": "JavaScript",
+    "url": "https://angular.io/docs/ts/latest/",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "AngularJS",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "D3",
+    "prog_lang": "JavaScript",
+    "url": "https://github.com/d3/d3/wiki",
+    "topic": "Web",
+    "subtopic": "Data viz",
+    "tech": "D3",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "A-Frame",
+    "prog_lang": "JavaScript",
+    "url": "https://aframe.io/docs/0.5.0/introduction/",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "A-Frame",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "React VR",
+    "prog_lang": "JavaScript",
+    "url": "https://facebook.github.io/react-vr/",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "React VR",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "Jest",
+    "prog_lang": "JavaScript",
+    "url": "https://facebook.github.io/jest/",
+    "topic": "Web",
+    "subtopic": "Testing",
+    "tech": "Jest",
+    "type": "Docs",
+    "language": "English"
+  },
+  {
+    "name": "Git",
+    "prog_lang": "Unknown",
+    "url": "https://git-scm.com/documentation",
+    "topic": "Source control",
+    "subtopic": "Unknown",
+    "tech": "Git",
+    "type": "Docs",
+    "language": "English"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "name": "@TheLarkInn",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/TheLarkInn",
+    "topic": "Web",
+    "subtopic": "Build tool",
+    "tech": "Webpack",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@left_pad",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/left_pad",
+    "topic": "Web",
+    "subtopic": "Build tool",
+    "tech": "Babeljs",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@SassCSS",
+    "prog_lang": "CSS",
+    "url": "https://twitter.com/SassCSS",
+    "topic": "Web",
+    "subtopic": "Styles",
+    "tech": "SASS",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@amberroyVR",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/amberroyVR",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "React VR",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@mozillavr",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/mozillavr",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "WebVR API",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@taviso",
+    "prog_lang": "Unknown",
+    "url": "https://twitter.com/taviso",
+    "topic": "Security",
+    "subtopic": "Security",
+    "tech": "Google",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@LeaVerou",
+    "prog_lang": "CSS",
+    "url": "https://twitter.com/LeaVerou",
+    "topic": "Web",
+    "subtopic": "Styles",
+    "tech": "CSS",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@troyhunt",
+    "prog_lang": "Unknown",
+    "url": "https://twitter.com/troyhunt",
+    "topic": "Web",
+    "subtopic": "Security",
+    "tech": "Web",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@NadiehBremer",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/NadiehBremer",
+    "topic": "Web",
+    "subtopic": "Data viz",
+    "tech": "D3",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@D3BayArea",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/D3BayArea",
+    "topic": "Web",
+    "subtopic": "Data viz",
+    "tech": "D3",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@auradeluxe",
+    "prog_lang": "Unknown",
+    "url": "https://twitter.com/auradeluxe",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "WebVR API",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@sfhtml5",
+    "prog_lang": "HTML",
+    "url": "https://twitter.com/sfhtml5",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "HTML",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@aframevr",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/aframevr",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "A-Frame",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@grabbou",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/grabbou",
+    "topic": "Mobile",
+    "subtopic": "Unknown",
+    "tech": "React Native",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@rauschma",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/rauschma",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "JavaScript",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@gvanrossum",
+    "prog_lang": "Python",
+    "url": "https://twitter.com/gvanrossum",
+    "topic": "Python",
+    "subtopic": "Python",
+    "tech": "Python",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@NodeJS_Daily",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/NodeJS_Daily",
+    "topic": "Web",
+    "subtopic": "Servers",
+    "tech": "NodeJS",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@reactjs",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/reactjs",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "ReactJS",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@dan_abramov",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/dan_abramov",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "ReactJS",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@mbostock",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/mbostock",
+    "topic": "Web",
+    "subtopic": "Data viz",
+    "tech": "D3",
+    "type": "Twitter",
+    "language": "English"
+  },
+  {
+    "name": "@ChromiumDev",
+    "prog_lang": "JavaScript",
+    "url": "https://twitter.com/ChromiumDev",
+    "topic": "Web",
+    "subtopic": "Browsers",
+    "tech": "Chrome",
+    "type": "Twitter",
+    "language": "English"
+  }
+]

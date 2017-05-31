@@ -1,0 +1,242 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: white;
+  height: 150px;
+  padding: 20px;
+  color: black;
+  border-bottom: 3px solid black;
+}
+
+.App-footer {
+  text-align: center;
+  vertical-align: middle;
+  background-color: white;
+  height: 200px;
+  padding: 20px;
+  color: #E80C66;
+  text-shadow: 1px 1px 2px black;
+  border-top: 3px solid black;
+}
+
+#maintitle {
+  color: #E80C66;
+  font-size: 64px;
+  text-shadow: 1px 1px 2px black;
+}
+
+@media (max-width: 768px) {
+  #maintitle {
+    font-size: 32px;
+  }
+  .App-header {
+    background-color: white;
+    height: 90px;
+    color: black;
+    border-bottom: 3px solid black;
+  }
+
+  .App-footer {
+    height: 230px;
+  }
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-body {
+  padding: 20px;
+}
+
+.tags {
+  height: 40px;
+  width: 65px;
+  padding-top: 24px;
+  margin: 5px;
+  font-size: 13px;
+  background-color: white;
+  color: #E80C66;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.name {
+  width: 300px;
+}
+
+.btn {
+  height: 22px;
+  width: 100px;
+  padding: 10px 5px 10px 5px;
+  font-size: 17px;
+  background-color: #E80C66;
+  color: white;
+  border-radius: 33px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px black;
+}
+
+.btn:hover {
+  background-color: #147CCC;
+}
+
+.btn:active {
+  -webkit-box-shadow: inset 0px 0px 56px 3px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset 0px 0px 56px 3px rgba(0,0,0,0.75);
+  box-shadow: inset 0px 0px 56px 3px rgba(0,0,0,0.75);
+}
+
+.sort-cat-btn {
+  height: 50px;
+  width: 100px;
+}
+
+#sort-all-btn {
+  top: 11%;
+  right: 5%;
+  height: 50px;
+  width: 100px;
+  font-size: 24px;
+  position: fixed;
+  padding-top: 24px;
+  -webkit-box-shadow: 0px 0px 56px 3px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 56px 3px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 56px 3px rgba(0,0,0,0.75);
+  z-index: 10;
+}
+
+.ptop {
+  padding-top: 28px;
+}
+
+.sorted-by {
+  background-color: #C0E5F2;
+}
+
+.mobile-btns {
+  display: none;
+}
+
+.mobile-tags {
+  display: inline;
+  border: none;
+}
+
+@media (max-width: 949px) {
+  .mobile-tags {
+    display: block;
+    border-bottom: 3px solid black;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .mobile-btns {
+    display: inline;
+  }
+}
+
+/* lazy tooltip from https://www.w3schools.com/css/css_tooltip.asp */
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #C0E5F2;
+    color: #E80C66;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.tooltip .tooltiptext::after {
+    content: " ";
+    position: absolute;
+    top: 100%; /* At the bottom of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #C0E5F2 transparent transparent transparent;
+}
+
+.names {
+  font-size: 23px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.Cat-header {
+  background-color: white;
+  height: 50px;
+  padding: 5px 0px 30px 0px;
+  color: #E80C66;
+  text-shadow: 1px 1px 2px black;
+}
+
+.Cat-body {
+  padding: 15px 0px 0px 30px;
+  margin-bottom: 30px;
+}
+
+.Cat-container {
+  margin-top: 10px;
+}
+
+.example-enter {
+  opacity: 0.01;
+}
+
+.example-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
+
+.example-appear {
+  opacity: 0.01;
+}
+
+.example-appear.example-appear-active {
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
+
+.example-leave {
+  opacity: 1;
+}
+
+.example-leave.example-leave-active {
+  opacity: 0.01;
+  transition: opacity 500ms ease-in;
+}

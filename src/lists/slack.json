@@ -1,0 +1,42 @@
+[
+  {
+    "name": "A-Frame Slack",
+    "prog_lang": "JavaScript",
+    "url": "aframevr.slack.com",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "A-Frame",
+    "type": "Slack",
+    "language": "English"
+  },
+  {
+    "name": "BrakeSec Podcast Slack",
+    "prog_lang": "Unknown",
+    "url": "brakesec.slack.com",
+    "topic": "Security",
+    "subtopic": "Security",
+    "tech": "Unknown",
+    "type": "Slack",
+    "language": "English"
+  },
+  {
+    "name": "D3 Slack",
+    "prog_lang": "JavaScript",
+    "url": "d3js.slack.com",
+    "topic": "Web",
+    "subtopic": "Data viz",
+    "tech": "D3",
+    "type": "Slack",
+    "language": "English"
+  },
+  {
+    "name": "WebVR Slack",
+    "prog_lang": "JavaScript",
+    "url": "webvr.slack.com",
+    "topic": "Web",
+    "subtopic": "VR",
+    "tech": "WebVR API",
+    "type": "Slack",
+    "language": "English"
+  }
+]

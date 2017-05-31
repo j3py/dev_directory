@@ -1,0 +1,182 @@
+[
+  {
+    "name": "JavaScript Jabber",
+    "prog_lang": "JavaScript",
+    "url": "https://devchat.tv/js-jabber",
+    "topic": "Web",
+    "subtopic": "Unknown",
+    "tech": "JavaScript",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "The Changelog",
+    "prog_lang": "Unknown",
+    "url": "https://changelog.com/podcast",
+    "topic": "Open source",
+    "subtopic": "Unknown",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Podcast.__init__('Python')",
+    "prog_lang": "Python",
+    "url": "https://www.podcastinit.com/",
+    "topic": "Python",
+    "subtopic": "Unknown",
+    "tech": "Python",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "NodeUp",
+    "prog_lang": "JavaScript",
+    "url": "http://nodeup.com/",
+    "topic": "Web",
+    "subtopic": "Servers",
+    "tech": "NodeJS",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Data Skeptic",
+    "prog_lang": "Unknown",
+    "url": "https://dataskeptic.com/",
+    "topic": "Data science",
+    "subtopic": "Unknown",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Not So Standard Deviations",
+    "prog_lang": "Unknown",
+    "url": "https://soundcloud.com/nssd-podcast",
+    "topic": "Data science",
+    "subtopic": "Unknown",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "StartUp Podcast",
+    "prog_lang": "Unknown",
+    "url": "https://gimletmedia.com/startup/",
+    "topic": "Business",
+    "subtopic": "Startups",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Paul's Security Weekly",
+    "prog_lang": "Unknown",
+    "url": "https://securityweekly.com/",
+    "topic": "Security",
+    "subtopic": "Security",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "The UX Blog: User Experience Design, Research & Strategy",
+    "prog_lang": "Unknown",
+    "url": "https://theuxblog.com/podcast/",
+    "topic": "Web",
+    "subtopic": "Design",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "UI Breakfast: UI/UX Design and Product Strategy",
+    "prog_lang": "Unknown",
+    "url": "http://uibreakfast.com/category/podcast/",
+    "topic": "Web",
+    "subtopic": "Design",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "React Native Radio",
+    "prog_lang": "JavaScript",
+    "url": "https://devchat.tv/react-native-radio",
+    "topic": "Mobile",
+    "subtopic": "Unknown",
+    "tech": "React Native",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Smashing Security",
+    "prog_lang": "Unknown",
+    "url": "https://smashingsecurity.libsyn.com/",
+    "topic": "Security",
+    "subtopic": "Security",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "StartupCTO.io",
+    "prog_lang": "Unknown",
+    "url": "https://startupcto.io/",
+    "topic": "Business",
+    "subtopic": "Startups",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "The Collaboration Superpowers Podcast",
+    "prog_lang": "Unknown",
+    "url": "http://www.collaborationsuperpowers.com/podcasts/",
+    "topic": "Business",
+    "subtopic": "Startups",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Masters of Scale with Reid Hoffman",
+    "prog_lang": "Unknown",
+    "url": "https://mastersofscale.com/",
+    "topic": "Business",
+    "subtopic": "Startups",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Security Now",
+    "prog_lang": "Unknown",
+    "url": "https://twit.tv/shows/security-now",
+    "topic": "Security",
+    "subtopic": "Security",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "SANS Internet Storm Center",
+    "prog_lang": "Unknown",
+    "url": "https://isc.sans.edu/podcast.html",
+    "topic": "Web",
+    "subtopic": "Security",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  },
+  {
+    "name": "Brakeing Down Security Podcast",
+    "prog_lang": "Unknown",
+    "url": "http://www.brakeingsecurity.com/",
+    "topic": "Security",
+    "subtopic": "Security",
+    "tech": "Unknown",
+    "type": "Podcast",
+    "language": "English"
+  }
+]
