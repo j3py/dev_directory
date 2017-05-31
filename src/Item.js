@@ -21,12 +21,13 @@ class Item extends Component {
 
   handleShow(e) {
     let mobileTags = Array.from(e.target.parentNode.getElementsByClassName('mobile-tags'));
-    let btnText = e.target.textContent;
+    let btnNode = e.target;
+    let btnText = btnNode.textContent;
 
     if (btnText === 'Show more') {
-      e.target.textContent = 'Show less';
+      btnNode.textContent = 'Show less';
     } else {
-      e.target.textContent = 'Show more';
+      btnNode.textContent = 'Show more';
     }
 
     mobileTags.forEach((node) => {
